@@ -1,0 +1,21 @@
+TEMAS
+Matematicas: Algebra, Geometria, Trigonometria, Geometria Analitica, Derivadas, Integrales, Ecuaciones Diferenciales
+Fisica: Cinematica, Dinamica, Trabajo y Energia, Colisiones, Movimiento Rotacional, Calor y Temperatura
+Programacion: Javascript, Python, Visual Basic
+Excel: Funciones, Tablas dinamicas, Modelado, Graficos, Solver, Buscar Objetivo, Tabla de Datos
+
+SEGMENTOS
+Secundaria
+Universidad
+Angloparlantes
+GMAT, GRE
+Jovenes talentos
+
+Notas
+Podriamos empezar con un landing page que pregunte el segmento del usuario y lo dirija al contenido relevante
+
+Algunas secciones
+TEMAS DE ESTUDIO: Temas ofrecidos a cada segmento en particular
+ACERCA DE MI: Datos generales, experiencia academica, historia personal con la matematica
+INVERSION: Costo por hora, Costo por parejas
+IMPORTANCIA: Porque estudiar materias cuantitativas?, 
