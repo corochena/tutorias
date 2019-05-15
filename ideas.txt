@@ -16,6 +16,17 @@ Podriamos empezar con un landing page que pregunte el segmento del usuario y lo 
 
 Algunas secciones
 TEMAS DE ESTUDIO: Temas ofrecidos a cada segmento en particular
+
 ACERCA DE MI: Datos generales, experiencia academica, historia personal con la matematica
+
 INVERSION: Costo por hora, Costo por parejas
+
 IMPORTANCIA: Porque estudiar materias cuantitativas?, 
+Para subir el promedio y mantener una beca
+Para optar a una beca en el extranjero
+Para ir bien preparado a la universidad
+Para entender mejor las materias que dependen de la matematica y disfrutar la universidad, no odiar la universidad
+Para aprobar un examen de admision
+
+
+
